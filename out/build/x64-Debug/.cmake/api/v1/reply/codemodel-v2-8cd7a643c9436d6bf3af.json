@@ -1,0 +1,312 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						9
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "external/Catch2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "external/Catch2"
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/connection_colors",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "examples/connection_colors",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "examples/example2",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "examples/example2",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "examples/calculator",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "examples/calculator",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "examples/images",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "examples/images",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "examples/styles",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "examples/styles",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "NodeEditor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 6,
+					"id" : "calculator::@04d4dbce3f6a518ed977",
+					"jsonFile" : "target-calculator-Debug-681398778514038c3bf3.json",
+					"name" : "calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "calculator_autogen::@04d4dbce3f6a518ed977",
+					"jsonFile" : "target-calculator_autogen-Debug-d353f97ce0968cd1461d.json",
+					"name" : "calculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "connection_colors::@504736170761ef695b25",
+					"jsonFile" : "target-connection_colors-Debug-98244f3c233692167f03.json",
+					"name" : "connection_colors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "connection_colors_autogen::@504736170761ef695b25",
+					"jsonFile" : "target-connection_colors_autogen-Debug-c8f6a8d942cc860db9f6.json",
+					"name" : "connection_colors_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "example2::@9e527b5ad552595f2e57",
+					"jsonFile" : "target-example2-Debug-c9be458de7f9b836e216.json",
+					"name" : "example2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "example2_autogen::@9e527b5ad552595f2e57",
+					"jsonFile" : "target-example2_autogen-Debug-993edb2e781289f8e548.json",
+					"name" : "example2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "images::@062e391225274de7d6f0",
+					"jsonFile" : "target-images-Debug-531bd2e0f8cfb2691b74.json",
+					"name" : "images",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "images_autogen::@062e391225274de7d6f0",
+					"jsonFile" : "target-images_autogen-Debug-2751c1f923fedbab4225.json",
+					"name" : "images_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nodes-Debug-1964f7004cbe522a4f7f.json",
+					"name" : "nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nodes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nodes_autogen-Debug-28087bb37d7b22405030.json",
+					"name" : "nodes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "styles::@40d7219345c1f697648b",
+					"jsonFile" : "target-styles-Debug-1702f457d41c3bd15117.json",
+					"name" : "styles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "styles_autogen::@40d7219345c1f697648b",
+					"jsonFile" : "target-styles_autogen-Debug-a48c26fd3d55891259ee.json",
+					"name" : "styles_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "test_nodes::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_nodes-Debug-0225f646a3c818b75976.json",
+					"name" : "test_nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "test_nodes_autogen::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_nodes_autogen-Debug-91e00eda456d63a40f24.json",
+					"name" : "test_nodes_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug",
+		"source" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

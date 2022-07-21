@@ -1,0 +1,296 @@
+{
+	"BUILD_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/nodes_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor",
+	"CMAKE_EXECUTABLE" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/CMakeLists.txt",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeSystem.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeCXXCompiler.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/CMakeFiles/3.20.21032501-MSVC_2/CMakeRCCompiler.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfigVersion.cmake",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/lib/cmake/Qt5OpenGL/Qt5OpenGLConfig.cmake",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/resources/resources.qrc",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/CMakePackageConfigHelpers.cmake",
+		"C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20/Modules/WriteBasicConfigVersionFile.cmake",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/cmake/NodeEditorConfig.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionBlurEffect.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_ConnectionBlurEffect.cpp",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionPainter.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_ConnectionPainter.cpp",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeConnectionInteraction.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_NodeConnectionInteraction.cpp",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodePainter.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_NodePainter.cpp",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/Properties.hpp",
+			"Mu",
+			"UVLADIE3JM/moc_Properties.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/nodes_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/nodes_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NODE_EDITOR_EXPORTS",
+		"NODE_EDITOR_SHARED",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_KEYWORDS",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"WIN32",
+		"nodes_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include/QtCore",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/mkspecs/win32-msvc",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include/QtWidgets",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include/QtGui",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include/QtANGLE",
+		"C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/include/QtOpenGL"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Compiler.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Connection.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/ConnectionGeometry.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/ConnectionGraphicsObject.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/ConnectionState.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/ConnectionStyle.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/DataModelRegistry.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Export.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/FlowScene.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/FlowView.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/FlowViewStyle.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Node.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeData.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeDataModel.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeGeometry.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeGraphicsObject.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodePainterDelegate.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeState.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/NodeStyle.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/OperatingSystem.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/PortType.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/QStringStdHash.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/QUuidStdHash.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Serializable.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/Style.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/StyleCollection.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/TypeConverter.hpp",
+		"C:/Users/mmd/Documents/nodeEditor/nodeeditor/include/nodes/internal/memory.hpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/CMakeFiles/nodes_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/Qt5.13.1/5.13.1/msvc2017_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 13,
+	"SETTINGS_FILE" : "C:/Users/mmd/Documents/nodeEditor/nodeeditor/out/build/x64-Debug/CMakeFiles/nodes_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/Connection.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionBlurEffect.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionGeometry.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionGraphicsObject.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionPainter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/ConnectionStyle.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/DataModelRegistry.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/FlowScene.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/FlowView.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/FlowViewStyle.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/Node.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeConnectionInteraction.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeDataModel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeGeometry.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeGraphicsObject.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodePainter.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/NodeStyle.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/Properties.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/mmd/Documents/nodeEditor/nodeeditor/src/StyleCollection.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}
